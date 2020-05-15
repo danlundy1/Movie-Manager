@@ -1,2 +1,2 @@
 # Movie Manager Application
-![](/Images/Main1.png)
+![](Images/Main1.PNG)
