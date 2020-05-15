@@ -1,2 +1,2 @@
-# Lundy_D_Movies
+# Movie Manager Application
 ![](images/Main1.png)
