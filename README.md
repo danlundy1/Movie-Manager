@@ -11,4 +11,4 @@
 ![](Images/About.PNG)
 # Delete Form
 ![](Images/Delete.PNG)
-![](ImagesDeleted.PNG)
+![](Images/Deleted.PNG)
